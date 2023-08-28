@@ -1,0 +1,21 @@
+/* Style the header */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+/* Style the main content */
+main {
+    background-color: #f0f0f0;
+    padding: 1rem;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
+}
